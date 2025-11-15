@@ -19,7 +19,6 @@ fandom.com##.WikiaRail.right-rail-wrapper
 fandom.com##.page__right-rail
 fandom.com##.fandom-community-header__top-container > .wds-button-group.wiki-tools > a.wds-is-secondary.wds-button:nth-of-type(2)
 fandom.com##.is-visible.fandom-sticky-header > .wds-button-group.wiki-tools > a.wds-is-secondary.wds-button:nth-of-type(2)
-fandom.com###mw-data-after-content
 fandom.com##.mcf-wrapper
 fandom.com##.global-footer__content > div:nth-of-type(4)
 fandom.com##.global-footer__section-social-links.global-footer__section
@@ -101,3 +100,4 @@ gamepedia.com###fandom_notice
 fandom.com###fandom_notice
 ! Fix background
 fandom.com##.fandom-community-header__background:style(width: 100% !important;)
+fandom.com##body > div:style(margin-left: 0px !important)
